@@ -32,6 +32,7 @@ sourceSets {
         java {
             srcDir 'src/main/java/'
             include 'Reika/RotaryCraft/API/Power/**'
+            include 'Reika/RotaryCraft/API/Interfaces/**'
             exclude 'Reika/RotaryCraft/API/Power/PowerTransferHelper**'
             exclude 'Reika/RotaryCraft/API/Power/ShaftMerger**'
         }
