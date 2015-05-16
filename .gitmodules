@@ -1,0 +1,3 @@
+[submodule "src/main/java/Reika/RotaryCraft"]
+	path = src/main/java/Reika/RotaryCraft
+	url = https://github.com/ReikaKalseki/RotaryCraft.git
