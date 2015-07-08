@@ -18,7 +18,7 @@ buildscript {
 apply plugin: 'java'
 apply plugin: 'forge'
 
-version = "V6f"
+version = "V7a"
 group= "appeng" 
 archivesBaseName = "RotaryCraft"
 
